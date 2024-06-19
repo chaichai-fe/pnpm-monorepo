@@ -1,0 +1,4 @@
+packages:
+  - app-admin
+  - app-client
+  - app-common
